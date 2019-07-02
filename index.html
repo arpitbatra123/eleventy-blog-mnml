@@ -1,0 +1,8 @@
+---
+layout: layout.ejs
+pageTitle: Welcome to My Blog
+---
+<% for (post of collections.posts) { %>
+    <h2><a href="<%= post.url %>"><%= post.data.pageTitle %></a></h2>
+    <em><%= post.date %></em>
+<% }; %>
