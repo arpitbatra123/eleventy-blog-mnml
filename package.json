@@ -1,0 +1,16 @@
+{
+  "name": "eleventy-blog",
+  "version": "1.0.0",
+  "description": "A Blog Template using eleventy and terminal css.",
+  "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arpit Batra (arpitbatra123@gmail.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  }
+}
