@@ -1,15 +1,25 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>Welcome</title>
-    </head>
-    <body>
+  <head>
+    <meta charset="utf-8" />
+    <title>Welcome</title>
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/terminal.css@0.6.6/dist/terminal.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="./styles/index.css"
+    />
+  </head>
+  <body class="terminal">
+    <div class="container">
+      <div class="header">
         <h1><%- pageTitle %></h1>
-
-        <%- content %>
-        <footer>
-        © Arpit Batra
-        </footer>
-    </body>
+      </div>
+    </div>
+    <div class="container content">
+      <%- content %>
+    </div>
+  </body>
 </html>
