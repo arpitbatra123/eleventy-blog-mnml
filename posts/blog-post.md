@@ -1,6 +1,6 @@
 ---
 layout: layout.ejs
-pageTitle: Blog Post 1
+pageTitle: This is a blog post.
 ---
 # Hello
 Please tell me you're seeing this too
