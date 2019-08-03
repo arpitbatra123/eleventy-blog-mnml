@@ -1,21 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Welcome</title>
     <link
       rel="stylesheet"
       href="https://unpkg.com/terminal.css@0.6.6/dist/terminal.min.css"
     />
-    <link
-      rel="stylesheet"
-      href="./styles/index.css"
-    />
+    <link rel="stylesheet" href="./styles/homepage.css" />
   </head>
   <body class="terminal">
     <div class="container">
       <div class="header">
         <h1><%- pageTitle %></h1>
+        <div class="description">
+          <%- pageDescription %>
+        </div>
       </div>
     </div>
     <div class="container content">
