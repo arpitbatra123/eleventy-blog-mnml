@@ -1,3 +1,7 @@
 .post {
-    margin-top: 16px;
+  margin-top: 16px;
+}
+
+body {
+  font-family: "Noto Serif KR", "IBM Plex Sans", serif;
 }
