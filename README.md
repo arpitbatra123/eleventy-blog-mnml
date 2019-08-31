@@ -4,8 +4,6 @@ A blog template using eleventy and terminal css.
 
 ### eleventy docs: https://www.11ty.io/docs/
 
-### terminal css: https://terminalcss.xyz/
-
 ### Screenshot:
 
 ![Screenshot 2019-07-10 at 2 37 12 PM](https://user-images.githubusercontent.com/21967563/60956703-f1a64f00-a320-11e9-8c55-67dcc72c8de3.png)
