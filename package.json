@@ -3,14 +3,19 @@
   "version": "1.0.0",
   "description": "A Blog Template using eleventy and terminal css.",
   "scripts": {
-    "build": "npx eleventy",
-    "serve": "npx eleventy --serve",
+    "build": "eleventy && npm run sass",
+    "serve": "concurrently 'eleventy --serve' 'npm run sass:watch'",
+    "sass": "node-sass --output  _site/styles/ styles/",
+    "sass:watch": "npm run sass && npm run sass -- -w",
+    "clean": "rm -rf _site",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Arpit Batra (arpitbatra123@gmail.com)",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^0.8.3"
+    "@11ty/eleventy": "^0.8.3",
+    "concurrently": "^4.1.2",
+    "node-sass": "^4.12.0"
   }
 }

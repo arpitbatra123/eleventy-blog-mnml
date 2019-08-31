@@ -11,9 +11,9 @@ body {
 a {
   text-decoration: none;
   color: brown;
-}
 
-a:hover {
-  cursor: pointer;
-  text-decoration: underline;
+  &:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
 }
