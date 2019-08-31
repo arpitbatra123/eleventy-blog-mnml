@@ -9,18 +9,15 @@
       href="https://fonts.googleapis.com/css?family=Noto+Serif+KR:500,600,700"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="./styles/common.css" />
     <link rel="stylesheet" href="./styles/homepage.css" />
   </head>
   <body>
     <div class="container">
-      <div class="header">
-        <h1><%- pageTitle %></h1>
-        <div class="description">
-          <%- pageDescription %>
-        </div>
+      <h1><%- pageTitle %></h1>
+      <div class="description">
+        <%- pageDescription %>
       </div>
-    </div>
-    <div class="container content">
       <%- content %>
     </div>
   </body>

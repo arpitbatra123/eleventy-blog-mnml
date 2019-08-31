@@ -1,0 +1,19 @@
+body {
+  font-family: "Noto Serif KR", "IBM Plex Sans", serif;
+  background: #f6f6f6;
+}
+
+.container {
+  width: 50%;
+  padding: 0 25%;
+}
+
+a {
+  text-decoration: none;
+  color: brown;
+}
+
+a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
