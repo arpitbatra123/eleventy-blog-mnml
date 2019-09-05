@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="Description" content="Eleventy blog" />
-    <title>Welcome</title>
+    <title><%- pageTitle %></title>
     <link
       href="https://fonts.googleapis.com/css?family=Noto+Serif+KR:500,600,700"
       rel="stylesheet"
@@ -15,10 +15,8 @@
   </head>
   <body>
     <div class="container">
-      <h1><%- pageTitle %></h1>
-      <div class="description">
-        <%- pageDescription %>
-      </div>
+        <h1>Welcome to my blog</h1>
+        <p>Hi!, I'm XYZ, How are you doing?</p>
       <%- content %>
     </div>
   </body>
