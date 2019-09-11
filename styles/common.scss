@@ -1,5 +1,15 @@
+::selection {
+  color: white;
+  background-color: brown;
+}
+
+::-moz-selection {
+  color: white;
+  background-color: brown;
+}
+
 body {
-  font-family: "Noto Serif KR", "IBM Plex Sans", serif;
+  font-family: 'Noto Serif KR', 'IBM Plex Sans', serif;
   background: #f6f6f6;
 }
 
