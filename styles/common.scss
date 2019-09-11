@@ -27,3 +27,10 @@ a {
     text-decoration: underline;
   }
 }
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .container {
+    width: 100%;
+    padding: 0 8px 32px 8px;
+  }
+}
