@@ -3,13 +3,13 @@ pageTitle: How to write a simple hello world component in React
 ---
 
 ``` js
-import React, { Component } from "react";
+import React from "react"
 
-class HelloWorld extends Component {
-  render() {
-    return <div>Hello World!</div>;
-  }
-}
+const Hello = () => (
+  <p>You'll find me in a sea of dreams</p>
+);
+
+export default Hello;
 
 ```
 
