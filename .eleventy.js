@@ -3,6 +3,6 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(syntaxHighlight);
   return {
     //Use ejs in html templates
-    htmlTemplateEngine: "ejs"
+    htmlTemplateEngine: "liquid"
   };
 };
