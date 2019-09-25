@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6f09e1c5-14d2-47e1-be55-eeb90ffd46dd/deploy-status)](https://app.netlify.com/sites/eleventy-blog-mnml/deploys)
+
+
 # **eleventy-blog**
 
 A blog template using [eleventy.](https://www.11ty.io/docs/)
@@ -5,12 +8,6 @@ A blog template using [eleventy.](https://www.11ty.io/docs/)
 ## Features
 - Write blog posts in markdown 🥳
 - Write styles in SCSS 💅🏻
-
-## Screenshots
-
-<img width="700" src="https://user-images.githubusercontent.com/21967563/64077807-667a8180-ccf1-11e9-9586-aaeebb74d6c1.png">
-
-<img width="700" src="https://user-images.githubusercontent.com/21967563/64077809-68dcdb80-ccf1-11e9-994d-d627a239183d.png">
 
 ## How to Use?
 
