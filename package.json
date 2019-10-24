@@ -16,7 +16,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.9.0",
     "concurrently": "^5.0.0",
-    "node-sass": "^4.12.0"
+    "node-sass": "^4.13.0"
   },
   "dependencies": {
     "@11ty/eleventy-plugin-syntaxhighlight": "^2.0.3"
