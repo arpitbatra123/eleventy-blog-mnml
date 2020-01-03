@@ -19,6 +19,6 @@
     "node-sass": "^4.13.0"
   },
   "dependencies": {
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.0"
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1"
   }
 }
