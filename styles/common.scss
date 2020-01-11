@@ -8,14 +8,25 @@
   background-color: brown;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  font-family: 'Noto Serif KR', 'IBM Plex Sans', serif;
-  background: #f6f6f6;
+  font-family: "IBM Plex Sans", sans-serif;
+  color: #394655;
+  background: #fffef7;
 }
 
 .container {
-  width: 50%;
-  padding: 0 25%;
+  margin: 40px 32%;
+  blockquote {
+    margin: 16px 0;
+    padding: 0 1em;
+    color: brown;
+    border-left: 0.25em solid;
+  }
 }
 
 a {
@@ -28,9 +39,8 @@ a {
   }
 }
 
-@media (min-width: 320px) and (max-width: 480px) {
+@media (min-width: 320px) and (max-width: 767px) {
   .container {
-    width: 100%;
-    padding: 0 8px 32px 8px;
+    margin: 32px 14%;
   }
 }

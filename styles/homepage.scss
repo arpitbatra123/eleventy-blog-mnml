@@ -1,7 +1,30 @@
-.post {
-  margin-top: 16px;
+body {
+  text-transform: lowercase;
+}
 
-  .post-date {
-    font-size: 12px;
+.category {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+.posts {
+  list-style: none;
+  .post {
+    margin-top: 8px;
+    line-height: 14px;
+    &-date {
+      font-size: 12px;
+      color: #a8a8a8;
+    }
   }
+}
+
+.name {
+  color: #253445;
+  font-size: large;
+  margin-bottom: 5px;
+}
+
+p {
+  margin: 8px 0;
 }

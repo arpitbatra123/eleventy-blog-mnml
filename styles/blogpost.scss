@@ -1,3 +1,53 @@
 .post-container {
-  margin-top: 16px;
+  margin-top: 32px;
+
+  header {
+    margin-bottom: 16px;
+    .post-date {
+      font-size: 14px;
+      color: #a8a8a8;
+    }
+  }
+
+  .content {
+    line-height: 22px;
+    h2 {
+      margin: 24px 0 8px;
+      font-weight: normal;
+      line-height: 36px;
+    }
+
+    h3 {
+      margin: 12px 0;
+      line-height: 28px;
+    }
+
+    p {
+      margin-bottom: 10px;
+    }
+
+    ul {
+      list-style-type: none;
+      margin-left: 18px;
+
+      & > li::before {
+        content: "–"; /* en dash here */
+        position: absolute;
+        margin-left: -1.1em;
+      }
+    }
+  }
+
+  .back-link {
+    margin: 16px 0 24px 0;
+  }
+
+  // Select all text wrapped in `` in markdown - generated a `code` tag without a language class
+  code:not([class*="language-"]) {
+    padding: 0.2em;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background: #f8f8f8;
+    border: 1px solid #dddddd;
+  }
 }

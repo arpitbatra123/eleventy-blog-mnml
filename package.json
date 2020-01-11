@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-blog",
+  "name": "eleventy-blog-mnml",
   "version": "1.0.0",
   "description": "A Blog Template using eleventy and terminal css.",
   "scripts": {
@@ -14,11 +14,11 @@
   "author": "Arpit Batra (arpitbatra123@gmail.com)",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^0.9.0",
-    "concurrently": "^5.0.0",
+    "@11ty/eleventy": "^0.10.0",
+    "concurrently": "^5.0.2",
     "node-sass": "^4.13.0"
   },
   "dependencies": {
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.0"
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1"
   }
 }

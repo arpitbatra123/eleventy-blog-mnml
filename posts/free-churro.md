@@ -1,53 +1,11 @@
 ---
-date: '2010-01-01'
-pageTitle: Free Churro
+date: "2010-01-01"
+title: Free Churro
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GUkWn6ETezw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> [Free churro](https://www.youtube.com/watch?v=GUkWn6ETezw)
 
-[wind blowing]
-
-[shuddering]
-
-[vehicle approaching]
-
-[grunting]
-
-[panting]
-
-[tires screech]
-
-Yes, yes, I see you. Get in. Get in.
-
-Your mother is having another one of her episodes. Last night, she went to see A Doll’s House with a couple girlfriends, and now she has ideas. I emerged from my sanctum this afternoon to discover that not only had she not made me lunch, which is a meal I need in order to live, but she’d, furthermore, locked herself in the bedroom to weep. Loudly.
-
-Now it’s one thing for a woman to weep, but when they do it at such a volume you can hear it through the door, that’s when you know that they’re doing it just for the attention.
-
-Anyway, I was able to cobble together a sandwich for myself, so I’m the real hero of the story.
-
-[horn honking]
-
-[tires screeching]
-
-It was a couple hours later when I realized I was on a good run with my novel. I had this really interesting sentence that kept going for pages and pages, and I thought about how rare it is to really get in the groove like that; how most days, I can’t concentrate because my idiot child is blasting the television and it suddenly dawned on me—hot cock on a rock, she never even picked up the little noise and snot factory!
-
-[tires screech, horn honking]
-
-So, here I am, being your mother, which I know is giving you all sorts of mixed-up ideas about gender, while your brain is still loose and stupid. Just remember, if you become a queer later in life, this isn’t my fault! Don’t you sing no songs in your nightclub act called, “My Daddy was My Mommy,” while gazing longingly at a tangled string of pearls. Pearls are for ladies, BoJack. Pearls are for ladies.
-
-You know Sunday is my writing day. Sundays are the one day that are just for me and my craft, and still, you and the black hole that birthed you conspire to ruin it for me. What am I supposed to do now? Just go back to writing? I’m out of the zone now, the whole day’s shot! All because of you and that brittle wisp of a woman you made the mistake of making your mother.
-
-[sighs]
-
-No. It’s not her fault. She’s doing the best she can, after all. It’s just that… you can’t depend on women. You can’t depend on anyone. Sooner or later, you need to learn that no one else is gonna take care of you. That’s what I learned when I had to make my own sandwich. You can’t rely on other people, BoJack. It’s good for you to know that. And she’s a good mother for teaching you that. You’ve got a head start on most kids. You’re actually very lucky.
-
-[music continues over radio]
-
-Thaaaaank youuuuu?
-
-———
-
-So I stopped at a Jack in the Box on the way here, and the girl behind the counter said, “Hiya! Are you having an awesome day?” Not, “How are you doing today?” No. “Are you having an awesome day?” Which is pretty… shitty, because it puts the onus on me to disagree with her, like if I’m not having an “awesome day,” suddenly I’m the negative one.
+So I stopped at a Jack in the Box on the way here, and the girl behind the counter said, “Hiya! Are you having an awesome day?” Not, “How are you doing today?” No. “Are you having an awesome day?” Which is pretty… shitty, because it puts the onus on me to disagree with her, like if I’m not having an “awesome day,”suddenly I’m the negative one.
 
 Usually when people ask how I’m doing, the real answer is I’m doing shitty, but I can’t say I’m doing shitty because I don’t even have a good reason to be doing shitty. So if I say, “I’m doing shitty,” then they say, “Why? What’s wrong?” And I have to be like, “I don’t know, all of it?” So instead, when people ask how I’m doing, I usually say, “I am doing so great.”
 
