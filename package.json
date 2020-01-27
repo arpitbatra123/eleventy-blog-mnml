@@ -15,7 +15,7 @@
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
-    "concurrently": "^5.0.2",
+    "concurrently": "^5.1.0",
     "node-sass": "^4.13.1"
   },
   "dependencies": {
