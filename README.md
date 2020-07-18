@@ -23,3 +23,6 @@ A minimal blog template using [eleventy](https://www.11ty.io/docs/).
 ## Real World Use Case
 
 My personal website, which is available over [here](https://arpitbatra.netlify.app), is built using this template as the base.
+
+## Bugs, Feature Requests or Questions?
+Ask away [@arpitbatra123](https://twitter.com/arpitbatra123) on twitter or shoot me a mail at arpitbatra123@gmail.com
