@@ -10,11 +10,11 @@ body {
 .posts {
   list-style: none;
   .post {
-    margin-top: 8px;
+    margin-top: 16px;
     line-height: 14px;
     &-date {
       font-size: 12px;
-      color: #a8a8a8;
+      color: #585858;
     }
   }
 }

@@ -6,33 +6,30 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="Description" content="Arpit Batra" />
     <title>{{ title }}</title>
-    <link
-      href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400&display=swap"
-      rel="stylesheet"
-    />
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="./styles/common.css" />
     <link rel="stylesheet" href="./styles/homepage.css" />
   </head>
   <body>
     <div class="container">
       {{ content }}
-      <h4 class="category">Posts</h4>
+      <h2 class="category">Posts</h2>
       <ul class="posts">
-      {% for post in collections.posts reversed %}
+        {% for post in collections.posts reversed %}
         <li class="post">
           <span class="post-title">
             {% if post.data.externalLink %}
-              <a href="{{ post.data.externalLink }}" target="__blank">{{ post.data.title }}</a>
+            <a href="{{ post.data.externalLink }}" target="__blank">{{ post.data.title }}</a>
             {% else %}
-              <a href="{{ post.url }}">{{ post.data.title }}</a>
+            <a href="{{ post.url }}">{{ post.data.title }}</a>
             {% endif %}
           </span>
           <span class="post-date">
-            {{ post.date | date: "%b %Y" | downcase }}
+            {{ post.date | date: '%b %Y' | downcase }}
           </span>
         </li>
-      {% endfor %}
-    </ul>
+        {% endfor %}
+      </ul>
     </div>
   </body>
 </html>

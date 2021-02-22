@@ -14,11 +14,11 @@
   "author": "Arpit Batra (arpitbatra123@gmail.com)",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0",
-    "concurrently": "^5.1.0",
-    "node-sass": "^4.13.1"
+    "@11ty/eleventy": "^0.11.1",
+    "concurrently": "^6.0.0",
+    "node-sass": "^5.0.0"
   },
   "dependencies": {
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1"
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6"
   }
 }
