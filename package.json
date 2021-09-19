@@ -5,20 +5,18 @@
   "scripts": {
     "build": "eleventy && npm run sass",
     "serve": "concurrently 'eleventy --serve' 'npm run sass:watch'",
-    "sass": "node-sass --output  _site/styles/ styles/",
-    "sass:watch": "npm run sass && npm run sass -- -w",
+    "sass": "sass styles:_site/styles --no-source-map --style=compressed --update",
+    "sass:watch": "npm run sass && npm run sass -- --watch",
     "clean": "rm -rf _site",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Arpit Batra (arpitbatra123@gmail.com)",
   "license": "MIT",
-  "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
-    "concurrently": "^6.0.0",
-    "node-sass": "^5.0.0"
-  },
   "dependencies": {
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.6"
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
+    "concurrently": "^6.2.1",
+    "sass": "^1.41.1"
   }
 }

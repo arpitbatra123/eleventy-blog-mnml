@@ -1,9 +1,9 @@
 ---
-date: "2010-01-01"
+date: '2010-01-01'
 title: Free Churro
 ---
 
-> [Free churro](https://www.youtube.com/watch?v=GUkWn6ETezw)
+<iframe width="100%" height="315"  src="https://www.youtube-nocookie.com/embed/GUkWn6ETezw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 So I stopped at a Jack in the Box on the way here, and the girl behind the counter said, “Hiya! Are you having an awesome day?” Not, “How are you doing today?” No. “Are you having an awesome day?” Which is pretty… shitty, because it puts the onus on me to disagree with her, like if I’m not having an “awesome day,”suddenly I’m the negative one.
 

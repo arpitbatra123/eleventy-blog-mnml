@@ -3,7 +3,7 @@ date: Last Modified
 title: Hey Bojack
 ---
 
-> [Sea of Dreams](https://www.youtube.com/watch?v=uyYQJPSZ_bk)
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/uyYQJPSZ_bk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Hey, Bojack. I haven't heard from you in like three months.
 Did I tell you I'm working on a blog?

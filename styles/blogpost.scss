@@ -1,5 +1,5 @@
-@import "./common.scss";
-@import "./prism-theme.scss";
+@import './common.scss';
+@import './prism-theme.scss';
 .post-container {
   margin-top: 32px;
 
@@ -33,7 +33,7 @@
       margin-left: 18px;
 
       & > li::before {
-        content: "–"; /* en dash here */
+        content: '–'; /* en dash here */
         position: absolute;
         margin-left: -1.1em;
       }
@@ -45,11 +45,15 @@
   }
 
   // Select all text wrapped in `` in markdown - generated a `code` tag without a language class
-  code:not([class*="language-"]) {
+  code:not([class*='language-']) {
     padding: 0.2em;
     padding-top: 1px;
     padding-bottom: 1px;
     background: #f8f8f8;
     border: 1px solid #dddddd;
   }
+}
+
+iframe {
+  padding: 16px 0;
 }
