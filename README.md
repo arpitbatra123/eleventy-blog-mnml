@@ -8,6 +8,7 @@ A minimal blog template using [eleventy](https://www.11ty.io/docs/).
 
 - Write blog posts in markdown 🥳
 - Write styles in SCSS 💅🏻
+- Inbuilt support for rss feed
 
 ## How to Use?
 
